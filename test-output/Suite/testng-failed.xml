@@ -3,11 +3,21 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="apicode.DeleteRequest">
+        <methods>
+          <include name="GetData"/>
+        </methods>
+      </class> <!-- apicode.DeleteRequest -->
       <class name="apicode.PostRequest">
         <methods>
           <include name="PostData"/>
         </methods>
       </class> <!-- apicode.PostRequest -->
+      <class name="apicode.Getrequest_ElasticSearch">
+        <methods>
+          <include name="GetData"/>
+        </methods>
+      </class> <!-- apicode.Getrequest_ElasticSearch -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

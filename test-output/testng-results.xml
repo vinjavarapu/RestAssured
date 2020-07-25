@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-07-25T22:05:55 IST" name="Suite" finished-at="2020-07-25T22:05:56 IST" duration-ms="1183">
+  <suite started-at="2020-07-25T22:17:08 IST" name="Suite" finished-at="2020-07-25T22:17:09 IST" duration-ms="1312">
     <groups>
     </groups>
-    <test started-at="2020-07-25T22:05:55 IST" name="Test" finished-at="2020-07-25T22:05:56 IST" duration-ms="1183">
+    <test started-at="2020-07-25T22:17:08 IST" name="Test" finished-at="2020-07-25T22:17:09 IST" duration-ms="1312">
       <class name="apicode.DeleteRequest">
-        <test-method signature="GetData()[pri:0, instance:apicode.DeleteRequest@124c278f]" started-at="2020-07-25T22:05:55 IST" name="GetData" finished-at="2020-07-25T22:05:56 IST" duration-ms="1061" status="PASS">
+        <test-method signature="GetData()[pri:0, instance:apicode.DeleteRequest@124c278f]" started-at="2020-07-25T22:17:08 IST" name="GetData" finished-at="2020-07-25T22:17:09 IST" duration-ms="1201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetData -->
       </class> <!-- apicode.DeleteRequest -->
       <class name="apicode.Getrequest_ElasticSearch">
-        <test-method signature="GetData()[pri:0, instance:apicode.Getrequest_ElasticSearch@15b204a1]" started-at="2020-07-25T22:05:56 IST" name="GetData" finished-at="2020-07-25T22:05:56 IST" duration-ms="16" status="PASS">
+        <test-method signature="GetData()[pri:0, instance:apicode.Getrequest_ElasticSearch@15b204a1]" started-at="2020-07-25T22:17:09 IST" name="GetData" finished-at="2020-07-25T22:17:09 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetData -->
       </class> <!-- apicode.Getrequest_ElasticSearch -->
       <class name="apicode.PostRequest">
-        <test-method signature="PostData()[pri:0, instance:apicode.PostRequest@77167fb7]" started-at="2020-07-25T22:05:56 IST" name="PostData" finished-at="2020-07-25T22:05:56 IST" duration-ms="75" status="PASS">
+        <test-method signature="PostData()[pri:0, instance:apicode.PostRequest@77167fb7]" started-at="2020-07-25T22:17:09 IST" name="PostData" finished-at="2020-07-25T22:17:09 IST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PostData -->
